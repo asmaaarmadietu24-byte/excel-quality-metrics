@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "excel-quality-metrics",
+  "pitch": "Compute standard industrial quality KPIs from messy Excel exports with repeatable pipelines.",
+  "language": "python",
+  "category": "Data Processing",
+  "keyFeatures": [
+    "Robust Excel ingestion (multi-sheets, merged headers, locale numbers/dates)",
+    "Prebuilt KPI functions (FPY, scrap rate, defect PPM, Pareto by cause)",
+    "Reproducible report outputs (cleaned dataset + KPI summary tables)"
+  ],
+  "targetUsers": "Manufacturing teams receiving Excel extracts from MES/ERP who need consistent defect, scrap, and yield KPIs."
+}
